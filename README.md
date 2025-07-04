@@ -40,7 +40,6 @@
    ```bash
    git clone https://github.com/muahmad232/Trapped.git
    cd Trapped
-````
 
 2. **Download & Install SFML**
 
