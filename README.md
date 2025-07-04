@@ -1,6 +1,6 @@
 ---
 
-# Trapped - A Maze Game of Wits and Speed
+## Trapped - A Maze Game of Wits and Speed
 
 **Trapped** is a thrilling maze game built in **C++ using SFML** that tests your logic, timing, and strategy. Navigate through complex mazes with increasing difficulty — or compete with a friend in multiplayer mode. Whether you're solving alone or racing side by side, you’ll need focus and fast reflexes to escape.
 
