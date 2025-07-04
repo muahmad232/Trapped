@@ -60,7 +60,7 @@
 * Use arrow keys or assigned controls to move through the maze
 * Reach the end of the maze to win
 * In multiplayer mode, race to finish before your opponent
-* Player scores are based on **time taken** or **backtracking** (depending on your implementation)
+* Player scores are based on **time taken** or **backtracking**
 * At the end of the game, scores are:
 
   * **Saved in a CSV file**
